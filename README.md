@@ -2,6 +2,8 @@
 
 ### I'm a developer with years of experience. I started in Minecraft, moved to Roblox, back to Minecraft then JavaScript. I've been programming since 2017, started all by myself, learning with the time.
 
+### Currently I'm a TypeScript and JavaScript programmer!
+
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=imFp&show_icons=true&theme=radical" />
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imFp&layout=compact" />
