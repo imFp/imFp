@@ -1,7 +1,6 @@
 # 🔧 Whats up, I'm Fp!
 
 ### I'm a developer with years of experience. I started in Minecraft, moved to Roblox, back to Minecraft then JavaScript. I've been programming since 2017, started all by myself, learning with the time.
-## You can contact me in discord using the name: fpdev
 
 ### I currently code in React, Java Script and Lua.
 
