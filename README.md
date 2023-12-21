@@ -1,6 +1,6 @@
 # 🔧 Whats up, I'm Fp!
 
-### I'm a developer with years of experience. I have previous experience in Game Development and Backend, but I'm currently coding in Frontend, using ReactJS.
+### I'm a developer with years of experience. I have previous experience in Game Development and Backend, but I'm currently coding in Frontend, using JavaScript.
 ### I also have experience with designing, such as UI, Posts and Web Design.
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=imFp&show_icons=true&theme=radical" />
