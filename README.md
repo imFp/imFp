@@ -4,9 +4,9 @@ Hi 👋 My name is Felipe!
 Full-Stack Developer
 --------------------
 
-I've been coding since 2017, I have experience with Game Development, both Front and Backend Development and Desktop apps! I'm currently active in Front and Backend, using JavaScript and Java.
+I've been coding since 2017, I have experience with Game Development, both Front and Backend Development and Desktop apps! I'm currently active in Front and Backend, using JS, Java and C#
 
-*   🧠  I'm learning Spring, MySQL and NodeJS
+*   🧠  I'm learning Spring, .NET and MySQL
 
 ### Skills 
 <p align="left">
