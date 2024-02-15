@@ -19,12 +19,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Fp!<br><br>- 🔭 I’m working in a Startup as Front-End SWE<br>- 📚 I'm currently learning TypeScript</p>
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -53,13 +47,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imFp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=imFp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imFp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
