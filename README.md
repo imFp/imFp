@@ -1,6 +1,6 @@
 <h1 align="center">hey there 👋</h1>
 
-<img align="left" height="150" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/111365326%3Fv%3D4&mask=circle&w=300" />
+<br clear="left"/>
 
 <p align="left">
   I'm Felipe, but I go by <b>Fpguim</b>.<br/>
