@@ -5,7 +5,7 @@
 <p align="left">
   I'm Felipe, but I go by <b>Fpguim</b>.<br/>
   I make games. Most of my time goes into Roblox, where I work as a Fullstack Programmer.<br/>
-  In my free time I like to make games in Godot, where I have way more fun.
+  In my free time I like to make games in Godot & Unity, where I have way more fun.
 </p>
 
 <br clear="left"/>
